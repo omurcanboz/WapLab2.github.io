@@ -1,0 +1,26 @@
+body {
+background-color: burlywood;
+}
+div {
+    padding: 10px;
+}
+p{
+    font-family: Verdana;
+    font-size: 15px;
+}
+span {
+    font-style: italic;
+}
+h1,h2 {
+    color: darkolivegreen;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    background-color: crimson;
+}
+li{
+    font-family: Tahoma, "Times New Roman";
+    font-size: 15px;
+}

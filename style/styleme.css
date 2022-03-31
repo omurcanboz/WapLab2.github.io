@@ -8,6 +8,12 @@ p{
     font-family: Verdana;
     font-size: 15px;
 }
+p:first-letter{
+    font-size: 30px;
+}
+ol li ul li {
+    list-style-type: none;
+}
 span {
     font-style: italic;
 }
@@ -18,7 +24,7 @@ a{
     text-decoration: none;
 }
 a:hover{
-    background-color: crimson;
+    text-decoration: revert;
 }
 li{
     font-family: Tahoma, "Times New Roman";
